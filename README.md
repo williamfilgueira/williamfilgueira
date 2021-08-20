@@ -5,23 +5,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- - 💬 Ask me about something ...
-- follow me here 
+- 💬 Ask me about something ...
+- ⚡ follow me here 
+- ⚡ studying programming 
+- 😄 I'm looking for new job opportunities
 
-- (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
-
-
-<!--
-**williamfilgueira/williamfilgueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ 🌱 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
