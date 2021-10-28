@@ -4,8 +4,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 💬 Ask me about something ...
 - ⚡ follow me here 
 - ⚡ studying programming 
 - 😄 I'm looking for new job opportunities
@@ -24,9 +22,7 @@
   <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <a href="mailto:williamfilgueira@gmail.com" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
-   </a>
+  
  
 
 </div>
