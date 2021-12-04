@@ -23,7 +23,9 @@
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="WILL-JAVA" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   <img align="center" alt="WILL-TYPESCRIPT" height="50" width="80" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   <img align="center" alt="WILL-SPRING" height="50" width="80" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+   <img align="center" alt="WILL-ANGULAR" height="50" width="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
 
 </div>
   
