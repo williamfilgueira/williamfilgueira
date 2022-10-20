@@ -6,7 +6,7 @@
 
 - ⚡ follow me here 
 - ⚡ studying programming 
-- 😄 I'm looking for new job opportunities
+
 
  🌱 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
