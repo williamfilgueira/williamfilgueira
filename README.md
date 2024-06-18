@@ -1,6 +1,7 @@
 ![pills-drugs](https://user-images.githubusercontent.com/70121248/130161011-f38293e8-3e6c-48ee-abeb-a13c2856b870.gif)
 
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 ### Hi there 👋
 
 - ⚡ follow me here 
@@ -37,6 +38,5 @@
  
 </div>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
