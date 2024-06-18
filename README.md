@@ -38,6 +38,6 @@
  
 </div>
 
-![snake gif](https://github.com/williamfilgueira/williamfilgueira/blob/output/github-contribution-grid-snake.svg)
+![Snake svg](https://github.com/williamfilgueira/williamfilgueira/blob/output/github-contribution-grid-snake.svg)
 
  
