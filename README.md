@@ -8,7 +8,11 @@
 
 
  🌱 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
-
+<div>
+  <a href="https://github.com/williamfilgueira">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamfilgueira&theme=transparent" />
+  </a>
+</div>
 <div>
   <a href="https://github.com/williamfilgueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamfilgueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
